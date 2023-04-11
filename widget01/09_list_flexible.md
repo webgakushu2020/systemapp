@@ -38,13 +38,13 @@ class MyApp extends StatelessWidget {
                   Padding(
                     padding: EdgeInsets.only(bottom: 5),
                     child: Row(
-                      children: [Text('名前'), SizedBox(width: 5), Text('ぞえ')],
+                      children: [Text('名前'), SizedBox(width: 5), Text('とも')],
                     ),
                   ),
                   Padding(
                     padding: EdgeInsets.only(bottom: 5),
                     child: Row(
-                      children: [Text('住み'), SizedBox(width: 5), Text('東京')],
+                      children: [Text('住み'), SizedBox(width: 5), Text('神奈川')],
                     ),
                   ),
                   Padding(
@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
                       children: [
                         Text('誕生日'),
                         SizedBox(width: 5),
-                        Text('02/20')
+                        Text('01/12')
                       ],
                     ),
                   ),
