@@ -29,13 +29,13 @@ class MyApp extends StatelessWidget {
               child: Column(
                 children: [
                   Row(
-                    children: [Text('名前'), Text('ぞえ')],
+                    children: [Text('名前'), Text('なかじま')],
                   ),
                   Row(
-                    children: [Text('住み'), Text('東京')],
+                    children: [Text('住み'), Text('神奈川')],
                   ),
                   Row(
-                    children: [Text('誕生日'), Text('02/20')],
+                    children: [Text('誕生日'), Text('01/12')],
                   ),
                   Row(
                     children: [Text('趣味'), Text('音楽')],
