@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
                   // ★：①childrenの中にRow()を入れる
                   Row(
                     // ★：②childrenの中にTextを入れる（①②を全てに対し行う）
-                    children: [Text('名前'), Text('中島')],
+                    children: [Text('名前'), Text('なかじま')],
                   ),
                   Row(
                     children: [Text('住み'), Text('神奈川')],
