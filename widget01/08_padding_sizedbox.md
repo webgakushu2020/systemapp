@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
                     children: [
                       Text('ひとこと'),
                       SizedBox(width: 5),
-                      Text('アプリ作ろうぜ！')
+                      Text('どんなアプリ作ろうか')
                     ],
                   )
                 ],
