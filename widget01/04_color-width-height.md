@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
                     children: [Text('趣味'), Text('音楽')],
                   ),
                   Row(
-                    children: [Text('ひとこと'), Text('アプリ作ろうぜ！')],
+                    children: [Text('ひとこと'), Text('どんなアプリ作ろうか')],
                   )
                 ],
               ),
