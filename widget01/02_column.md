@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
                   Text('神奈川'),
                   Text('01/12'),
                   Text('音楽'),
-                  Text('アプリ作ろうぜ！'),
+                  Text('どんなアプリを作ろうか'),
                 ],
               ),
             ),
