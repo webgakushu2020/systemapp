@@ -55,19 +55,19 @@ class _MyHomePageState extends State<MyHomePage> {
               Padding(
                 padding: EdgeInsets.only(bottom: 5),
                 child: Row(
-                  children: [Text('名前'), SizedBox(width: 5), Text('ぞえ')],
+                  children: [Text('名前'), SizedBox(width: 5), Text('とも')],
                 ),
               ),
               Padding(
                 padding: EdgeInsets.only(bottom: 5),
                 child: Row(
-                  children: [Text('住み'), SizedBox(width: 5), Text('東京')],
+                  children: [Text('住み'), SizedBox(width: 5), Text('神奈川')],
                 ),
               ),
               Padding(
                 padding: EdgeInsets.only(bottom: 5),
                 child: Row(
-                  children: [Text('誕生日'), SizedBox(width: 5), Text('02/20')],
+                  children: [Text('誕生日'), SizedBox(width: 5), Text('01/12')],
                 ),
               ),
               Padding(
@@ -82,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   SizedBox(width: 5),
                   Flexible(
                       child: Text(
-                          'アプリ作ろうぜ！そういえばメッセージって長くなりがちだよね。そんな時も安心！Flexibleで囲ってあげれば、自動的にこんな感じで折り返してくれるよ〜すごいぜ〜〜。ちなみに改行をしたい場合は\nをつけるとできるよ！\n\n2個連続ももちろんオッケー！'))
+                          'どんなアプリ作ろうか。そういえばメッセージって長くなりがちだよね。そんな時も安心！Flexibleで囲ってあげれば、自動的にこんな感じで折り返してくれるよ。ちなみに改行をしたい場合は\nをつけるとできるよ！\n\n2個連続ももちろんオッケー！'))
                 ],
               ),
               SizedBox(height: 10),
