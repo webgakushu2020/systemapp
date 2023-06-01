@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
               child: Column(
                 // ★：②Childrenに配列を作り、中にTextを並べる
                 children: [
-                  Text('中島'),
+                  Text('なかじま'),
                   Text('神奈川'),
                   Text('01/12'),
                   Text('音楽'),
